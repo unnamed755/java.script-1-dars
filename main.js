@@ -5,5 +5,5 @@ var user = prompt ("o'qish joyingizni kiriting")
 
 console.log(` ism :${username}
      yosh: ${userage}
-     yashash joyingiz ${usertext}
+     yashash joyingiz: ${usertext}
      oqish joyi: ${user}`);
